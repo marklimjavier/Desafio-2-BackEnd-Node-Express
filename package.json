@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "name": "desafio-2-backend-node-express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "Marklim",
+  "license": "ISC",
+  "description": "Desafio 2 Backend Marklim Gonzalez"
+}
